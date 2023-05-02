@@ -20,10 +20,10 @@ tags: python, azure, automation, terraform, scripting
 > 
 > <mark>An editor or IDE for Python, such as Visual Studio Code</mark>
 
-✔ Please check out my GitHub for more information and the code related to this project!  
-  
- ▶ GitHub Link   
- 🔗 [https://lnkd.in/da4i57Dc](https://lnkd.in/da4i57Dc)
+✔ Please check out my GitHub for more information and the code related to this project!
+
+▶ GitHub Link   
+ 🔗 [Romeshdg/-Automated-Infrastructure-Provisioning-with-Python-and-Terraform- (](https://github.com/Romeshdg/-Automated-Infrastructure-Provisioning-with-Python-and-Terraform-)[github.com](http://github.com)[)](https://github.com/Romeshdg/-Automated-Infrastructure-Provisioning-with-Python-and-Terraform-)
 
 Steps:-
 
