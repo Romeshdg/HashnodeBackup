@@ -267,4 +267,8 @@ The technology stack used in this project included Amazon EC2, GitHub, Docker, a
 
 # Overall, this project demonstrated how Nginx Server can be used to deploy web applications in a scalable, secure, and reliable manner, and how Docker can be used to package and deploy these applications with ease.
 
-## Thank you!
+### 📍 Thanks for reading, and happy learning! :) ✌
+
+### ✨Let's continue to learn and grow together.
+
+follow me on [LinkedIn](https://www.linkedin.com/in/romeshdharamgudi/) for more updates and insights. Also, don't forget to like, share, and comment on this post to spread the word and help others in their Learning journey.
